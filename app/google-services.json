@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071930789019",
+    "firebase_url": "https://flikbakmoviedb.firebaseio.com",
+    "project_id": "flikbakmoviedb",
+    "storage_bucket": "flikbakmoviedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071930789019:android:111c4afda333afb4",
+        "android_client_info": {
+          "package_name": "com.example.flikbak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071930789019-oarslajho2cpntsts3at7vp2j56p7fk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV9695OEXYsxBC1AZu-EHa9fv7F5L-Uu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071930789019-oarslajho2cpntsts3at7vp2j56p7fk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
