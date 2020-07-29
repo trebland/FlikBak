@@ -1,5 +1,5 @@
 # FlikBak
-An app designed to FlikBak at all the previous flicks (movies) you've seen over your life.
+An app designed to FlikBak to all the previous flicks (movies) you've seen over your life. <br />
 Created in Spring 2019 to satisfy a class requirement while studying at The Hong Kong Polytechnic University.
 
 ## Credits
